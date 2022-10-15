@@ -31,7 +31,7 @@ $person1 = new Person();
 //memanipulasi properties pada object
 $person1->nama = "Ikhlash";
 $person1->address = "Cianjur";
-$person1->noRumah = 16;
+$person1->noRumah = 10;
 
 //memanggil function
 $person1->sayHello("Budi");
